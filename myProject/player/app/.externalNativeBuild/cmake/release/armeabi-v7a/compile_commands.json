@@ -1,0 +1,31 @@
+[
+{
+  "directory": "E:/AndroidProject/player/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "F:\\Android\\SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security    -D__STDC_CONSTANT_MACROS -LE:/AndroidProject/player/app/src/main/cpp/libs/armeabi-v7a -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\AudioChannel.cpp.o -c E:\\AndroidProject\\player\\app\\src\\main\\cpp\\AudioChannel.cpp",
+  "file": "E:/AndroidProject/player/app/src/main/cpp/AudioChannel.cpp"
+},
+
+{
+  "directory": "E:/AndroidProject/player/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "F:\\Android\\SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security    -D__STDC_CONSTANT_MACROS -LE:/AndroidProject/player/app/src/main/cpp/libs/armeabi-v7a -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\DNFFmpeg.cpp.o -c E:\\AndroidProject\\player\\app\\src\\main\\cpp\\DNFFmpeg.cpp",
+  "file": "E:/AndroidProject/player/app/src/main/cpp/DNFFmpeg.cpp"
+},
+
+{
+  "directory": "E:/AndroidProject/player/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "F:\\Android\\SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security    -D__STDC_CONSTANT_MACROS -LE:/AndroidProject/player/app/src/main/cpp/libs/armeabi-v7a -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\JavaCallHelper.cpp.o -c E:\\AndroidProject\\player\\app\\src\\main\\cpp\\JavaCallHelper.cpp",
+  "file": "E:/AndroidProject/player/app/src/main/cpp/JavaCallHelper.cpp"
+},
+
+{
+  "directory": "E:/AndroidProject/player/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "F:\\Android\\SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security    -D__STDC_CONSTANT_MACROS -LE:/AndroidProject/player/app/src/main/cpp/libs/armeabi-v7a -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\VideoChannel.cpp.o -c E:\\AndroidProject\\player\\app\\src\\main\\cpp\\VideoChannel.cpp",
+  "file": "E:/AndroidProject/player/app/src/main/cpp/VideoChannel.cpp"
+},
+
+{
+  "directory": "E:/AndroidProject/player/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "F:\\Android\\SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/SDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security    -D__STDC_CONSTANT_MACROS -LE:/AndroidProject/player/app/src/main/cpp/libs/armeabi-v7a -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c E:\\AndroidProject\\player\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:/AndroidProject/player/app/src/main/cpp/native-lib.cpp"
+}
+]

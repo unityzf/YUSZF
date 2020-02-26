@@ -1,0 +1,15 @@
+# ninja log v5
+382	2918	604391652	CMakeFiles/native-lib.dir/src/main/cpp/JavaCallHelper.cpp.o	3b2272eb7578fbf6
+0	5503	604391655	CMakeFiles/native-lib.dir/src/main/cpp/DNFFmpeg.cpp.o	899b256b455121c
+394	5561	604391655	CMakeFiles/native-lib.dir/src/main/cpp/AudioChannel.cpp.o	3c8c49108c9e19fc
+411	5563	604391655	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	aaa2c15e76d4a848
+402	5577	604391655	CMakeFiles/native-lib.dir/src/main/cpp/VideoChannel.cpp.o	a23da87c69df40a8
+5577	8642	604391658	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c6dc45c3e841776c
+4	1843	604396813	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	aaa2c15e76d4a848
+1843	6591	604396817	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c6dc45c3e841776c
+388	5686	604400607	CMakeFiles/native-lib.dir/src/main/cpp/JavaCallHelper.cpp.o	3b2272eb7578fbf6
+718	5692	604400607	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	aaa2c15e76d4a848
+522	5874	604400607	CMakeFiles/native-lib.dir/src/main/cpp/DNFFmpeg.cpp.o	899b256b455121c
+770	5937	604400607	CMakeFiles/native-lib.dir/src/main/cpp/VideoChannel.cpp.o	a23da87c69df40a8
+566	5939	604400607	CMakeFiles/native-lib.dir/src/main/cpp/AudioChannel.cpp.o	3c8c49108c9e19fc
+5939	10813	604400612	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c6dc45c3e841776c

@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.databinding:adapters:3.4.1] E:\Android\.gradle\caches\transforms-2\files-2.1\38e114bf65fb528efc63d6ac115f0b38\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.1] E:\Android\.gradle\caches\transforms-2\files-2.1\ec7bad505d290fde2aaa7f2f89d56087\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\.gradle\caches\transforms-2\files-2.1\30c707059b642f5de28ed44f92150ab4\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] E:\Android\.gradle\caches\transforms-2\files-2.1\a969e71468cdb88afdf32fbd44af3a88\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:design:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\981025c6274373e7fc3695c060607319\AndroidManifest.xml:17:1-22:12
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:2:1-34:12
+MERGED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:2:1-19:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] E:\Android\.gradle\caches\transforms-2\files-2.1\5a50440c4dd903a5535465137b9e0ef9\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\bcd2d1bbe30c702c1957d7a81f745c3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\78ba75cf219d013eef1d0ea9b1c19b2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\4530e9f1ae1bf3cae43206eaee7184d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\8c521e820dbbf1c1a28740115721ee74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\295705a6c8389361ab2935d96f84e347\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\ea3022e59d965a8c0467c15e6df149af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\c3fe38edc5ccfd4fd686c61fa1502e36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\60e3882b9f996e82e2e549e54e8e9103\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\362fa74297a30d717a98498e55e03157\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\46cf33942ea079787117d82deb4806fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\e286273ec53705435c6461e2b1ee07e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\554c39bd2b1f46efd27b744f647bfc26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\f1c9515322e169c5fa34262df80db89b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\9770c41b1e56ed363a2a20d755d0e693\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\b4b8b6337aedadf9d30633dd8b6df9b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\4b809e88ca839dc49945c154402ad3e3\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:6:19-67
+uses-feature#0x00020000
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:glEsVersion
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:required
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:9:9-32
+uses-permission#android.permission.CAMERA
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:11:5-65
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:11:5-65
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:18:22-65
+application
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:20:5-62:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\.gradle\caches\transforms-2\files-2.1\30c707059b642f5de28ed44f92150ab4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\.gradle\caches\transforms-2\files-2.1\30c707059b642f5de28ed44f92150ab4\AndroidManifest.xml:9:5-20
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:14:5-32:19
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:14:5-32:19
+MERGED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:11:5-17:19
+	android:supportsRtl
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.myhexaville.androidwebrtc.app_rtc_sample.main.AppRTCMainActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:26:9-29:55
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:28:13-45
+	android:windowSoftInputMode
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:27:13-67
+activity#com.myhexaville.androidwebrtc.app_rtc_sample.call.CallActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:30:9-35:52
+	android:screenOrientation
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:32:13-59
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:31:13-61
+activity#com.myhexaville.androidwebrtc.LauncherActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:38:13-58
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:37:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.myhexaville.androidwebrtc.tutorial.CameraRenderActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:46:9-49:59
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:47:13-58
+activity#com.myhexaville.androidwebrtc.tutorial.MediaStreamActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:50:9-53:59
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:52:13-74
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:51:13-57
+activity#com.myhexaville.androidwebrtc.tutorial.DataChannelActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:56:13-71
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:55:13-57
+activity#com.myhexaville.androidwebrtc.tutorial.CompleteActivity
+ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:58:9-61:68
+	android:label
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:60:13-60
+	android:theme
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml:59:13-54
+uses-sdk
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.1] E:\Android\.gradle\caches\transforms-2\files-2.1\38e114bf65fb528efc63d6ac115f0b38\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] E:\Android\.gradle\caches\transforms-2\files-2.1\38e114bf65fb528efc63d6ac115f0b38\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] E:\Android\.gradle\caches\transforms-2\files-2.1\ec7bad505d290fde2aaa7f2f89d56087\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] E:\Android\.gradle\caches\transforms-2\files-2.1\ec7bad505d290fde2aaa7f2f89d56087\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\.gradle\caches\transforms-2\files-2.1\30c707059b642f5de28ed44f92150ab4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Android\.gradle\caches\transforms-2\files-2.1\30c707059b642f5de28ed44f92150ab4\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] E:\Android\.gradle\caches\transforms-2\files-2.1\a969e71468cdb88afdf32fbd44af3a88\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] E:\Android\.gradle\caches\transforms-2\files-2.1\a969e71468cdb88afdf32fbd44af3a88\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:design:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\981025c6274373e7fc3695c060607319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\981025c6274373e7fc3695c060607319\AndroidManifest.xml:20:5-44
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] E:\Android\.gradle\caches\transforms-2\files-2.1\5a50440c4dd903a5535465137b9e0ef9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] E:\Android\.gradle\caches\transforms-2\files-2.1\5a50440c4dd903a5535465137b9e0ef9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\bcd2d1bbe30c702c1957d7a81f745c3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\bcd2d1bbe30c702c1957d7a81f745c3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\78ba75cf219d013eef1d0ea9b1c19b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\78ba75cf219d013eef1d0ea9b1c19b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\4530e9f1ae1bf3cae43206eaee7184d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\4530e9f1ae1bf3cae43206eaee7184d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\8c521e820dbbf1c1a28740115721ee74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\8c521e820dbbf1c1a28740115721ee74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\295705a6c8389361ab2935d96f84e347\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\295705a6c8389361ab2935d96f84e347\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\ea3022e59d965a8c0467c15e6df149af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\ea3022e59d965a8c0467c15e6df149af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\c3fe38edc5ccfd4fd686c61fa1502e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\c3fe38edc5ccfd4fd686c61fa1502e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\60e3882b9f996e82e2e549e54e8e9103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\60e3882b9f996e82e2e549e54e8e9103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\362fa74297a30d717a98498e55e03157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\362fa74297a30d717a98498e55e03157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\46cf33942ea079787117d82deb4806fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\46cf33942ea079787117d82deb4806fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\e286273ec53705435c6461e2b1ee07e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\e286273ec53705435c6461e2b1ee07e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\554c39bd2b1f46efd27b744f647bfc26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\554c39bd2b1f46efd27b744f647bfc26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\f1c9515322e169c5fa34262df80db89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] E:\Android\.gradle\caches\transforms-2\files-2.1\f1c9515322e169c5fa34262df80db89b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\9770c41b1e56ed363a2a20d755d0e693\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\9770c41b1e56ed363a2a20d755d0e693\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\b4b8b6337aedadf9d30633dd8b6df9b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\b4b8b6337aedadf9d30633dd8b6df9b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\4b809e88ca839dc49945c154402ad3e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] E:\Android\.gradle\caches\transforms-2\files-2.1\4b809e88ca839dc49945c154402ad3e3\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProject\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:12:22-77
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:18:9-21:47
+	android:screenOrientation
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:19:13-76
+provider#com.myhexaville.smartimagepicker.CustomFileProvider
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:25:13-79
+	android:exported
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:24:13-79
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:28:13-30:54
+	android:resource
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:30:17-51
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] E:\Android\.gradle\caches\transforms-2\files-2.1\d35d30dfbe534c5ecab3b5cb65e5b42c\AndroidManifest.xml:29:17-67
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.1.3] E:\Android\.gradle\caches\transforms-2\files-2.1\78e185eb8580c36254d8baddcfb77273\AndroidManifest.xml:13:13-86

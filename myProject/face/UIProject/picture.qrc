@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>New/1.jpg</file>
+        <file>New/2.png</file>
+        <file>New/3.png</file>
+        <file>New/pic/74ls04.png</file>
+        <file>New/pic/74ls138.jpg</file>
+        <file>New/pic/74ls153.png</file>
+        <file>New/pic/74ls160.png</file>
+        <file>New/pic/74ls161.png</file>
+        <file>New/pic/74ls191.png</file>
+        <file>New/pic/LM317.png</file>
+        <file>New/pic/LM324.png</file>
+        <file>New/pic/LM358.png</file>
+        <file>New/pic/NE555.png</file>
+        <file>New/pic/OP07.png</file>
+        <file>New/pic/stm8.png</file>
+        <file>New/pic/stm32.png</file>
+        <file>New/pic/stmf.png</file>
+        <file>New/pic/VS-VSKHF180-12HKP.png</file>
+        <file>New/pic/picPDF/74ls160.png</file>
+        <file>New/pic/picPDF/74LS04.png</file>
+        <file>New/pic/picPDF/74LS138.png</file>
+        <file>New/pic/picPDF/74LS153.png</file>
+        <file>New/pic/picPDF/74LS161.png</file>
+        <file>New/pic/picPDF/74LS191.png</file>
+        <file>New/pic/picPDF/LM317.png</file>
+        <file>New/pic/picPDF/LM324.png</file>
+        <file>New/pic/picPDF/LM358.png</file>
+        <file>New/pic/picPDF/NE555.png</file>
+        <file>New/pic/picPDF/OP07.png</file>
+        <file>New/pic/picPDF/Stm8s105c4t6.png</file>
+        <file>New/pic/picPDF/Stm32f030c6t6.png</file>
+        <file>New/pic/picPDF/Stm32f103c8t6.png</file>
+        <file>New/pic/picPDF/Stm32f103rct6.png</file>
+        <file>New/pic/picPDF/Stm32f103zet6.png</file>
+        <file>New/pic/picPDF/Stm32f407zgt6.png</file>
+        <file>New/pic/picPDF/VS-VSKHF180-12HKP.png</file>
+    </qresource>
+</RCC>
